@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+
+    <link rel="stylesheet" href="./style.css" />
+
+    <title>Frontend Mentor | Interactive rating component</title>
+  </head>
+  <body>
+    <main class="container">
+      <div id="rating__card" class="card card__spacearound">
+        <div class="icon__star">
+          <img src="./images//icon-star.svg" alt="orange star icon" />
+        </div>
+        <h1 class="rate__heading">How did we do?</h1>
+        <p class="rate__description">
+          Please let us know how we did with your support request. All feedback
+          is appreciated to help us improve our offering!
+        </p>
+
+        <ul class="rate__range">
+          <li>
+            <button class="rate__rangeitem">1</button>
+          </li>
+          <li>
+            <button class="rate__rangeitem">2</button>
+          </li>
+          <li>
+            <button class="rate__rangeitem">3</button>
+          </li>
+          <li>
+            <button class="rate__rangeitem">4</button>
+          </li>
+          <li>
+            <button class="rate__rangeitem">5</button>
+          </li>
+        </ul>
+
+        <button class="button__submit">Submit</button>
+      </div>
+      <div id="thankyou__card" class="card card__center card__spacearound hidden">
+        <div class="rating">
+          <img
+            src="./images/illustration-thank-you.svg"
+            alt="point of sales machine icon"
+          />
+          <div class="rating__result">
+            <p>You selected <span class="rating__value">0</span> out of 5</p>
+          </div>
+        </div>
+
+        <div class="thankyou">
+          <h1 class="rate__heading">Thank you!</h1>
+          <p class="rate__description">
+            We appreciate you taking the time to give a rating. If you ever need
+            more support, don’t hesitate to get in touch!
+          </p>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div class="attribution">
+        Challenge by
+        <a
+          href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI"
+          target="_blank"
+          >Frontend Mentor</a
+        >. Coded by <a href="https://github.com/tatumroaquin">Tatum Roaquin</a>.
+      </div>
+    </footer>
+    <script src="main.js" type="text/javascript"></script>
+  </body>
+</html>
