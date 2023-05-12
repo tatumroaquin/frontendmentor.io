@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/tatumroaquin/frontendmentor-results-summary-component)
-- Live Site URL: (https://tatumroaquin.github.io/frontendmentor-results-summary-component)
+- Live Site URL: (https://fm-results-summary-384c9b.netlify.app)
 
 ## My process
 

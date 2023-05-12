@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/tatumroaquin/frontendmentor-stats-preview-card-component)
-- Live Site URL: (https://tatumroaquin.github.io/frontendmentor-stats-preview-card-component)
+- Live Site URL: (https://fm-stats-preview-card-1ffbe3.netlify.app)
 
 ## My process
 

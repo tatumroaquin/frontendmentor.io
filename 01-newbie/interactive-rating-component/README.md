@@ -34,7 +34,7 @@ Users should be able to:
 ## Links
 
 - Solution URL: (https://github.com/tatumroaquin/frontendmentor-interactive-rating-component)
-- Live Site URL: (https://tatumroaquin.github.io/frontendmentor-interactive-rating-component)
+- Live Site URL: (https://fm-interactive-rating-62f380.netlify.app)
 
 ## My process
 

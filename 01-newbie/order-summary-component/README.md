@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/tatumroaquin/frontendmentor-order-summary-component/)
-- Live Site URL: (https://tatumroaquin.github.io/frontendmentor-order-summary-component/)
+- Live Site URL: (https://fm-order-summary-c45e76.netlify.app)
 
 ## My process
 

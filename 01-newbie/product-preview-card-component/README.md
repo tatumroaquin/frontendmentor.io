@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/tatumroaquin/frontendmentor-product-preview-card-component)
-- Live Site URL: (https://tatumroaquin.github.io/frontendmentor-product-preview-card-component)
+- Live Site URL: (https://fm-product-preview-card-41f97c.netlify.app)
 ## My process
 
 ### Built with

@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/tatumroaquin/frontendmentor-nft-preview-card-component)
-- Live Site URL: (https://tatumroaquin.github.io/frontendmentor-nft-preview-card-component)
+- Live Site URL: (https://fm-nft-preview-card-76ff85.netlify.app)
 
 ## My process
 
