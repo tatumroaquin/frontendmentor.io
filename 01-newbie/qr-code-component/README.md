@@ -17,9 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshots/desktop.png)
-
 <div align="center">
+    <img src="./screenshots/desktop.png" alt="qr code component mobile screenshot">
     <img width="50%" src="./screenshots/mobile.png" alt="qr code component mobile screenshot">
 </div>
 

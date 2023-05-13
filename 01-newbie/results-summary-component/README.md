@@ -25,10 +25,9 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshots/desktop.png)
-
 <div align="center">
-    <img src="./screenshots/mobile.png" alt="results-summary-component-mobile-screenshot" />
+    <img src="./screenshots/desktop.png" alt="results-summary-component-mobile-screenshot" />
+    <img width="50%" src="./screenshots/mobile.png" alt="results-summary-component-mobile-screenshot" />
 </div>
 
 ### Links

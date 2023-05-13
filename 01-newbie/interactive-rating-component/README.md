@@ -25,9 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/desktop.png)
-
 <div align="center">
+    <img src="./screenshots/desktop.png" alt="interactive rating component mobile screenshot">
     <img width="50%" src="./screenshots/mobile.png" alt="interactive rating component mobile screenshot">
 </div>
 

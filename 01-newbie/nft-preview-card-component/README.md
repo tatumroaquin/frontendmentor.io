@@ -24,9 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/desktop.png)
-
 <div align="center">
+    <img src="./screenshots/desktop.png" alt="nft preview card component mobile screenshot">
     <img width="50%" src="./screenshots/mobile.png" alt="nft preview card component mobile screenshot">
 </div>
 

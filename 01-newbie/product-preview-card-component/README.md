@@ -24,9 +24,8 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshots/desktop.png)
-
 <div align="center">
+    <img src="./screenshots/desktop.png" alt="mobile preview card component screenshot" />
     <img width="50%" src="./screenshots/mobile.png" alt="mobile preview card component screenshot" />
 </div>
 
