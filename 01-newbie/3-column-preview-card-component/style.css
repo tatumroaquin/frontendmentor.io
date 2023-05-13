@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+:root {
+  /* Primary */
+
+  --bright-orange: hsl(31, 77%, 52%);
+  --dark-cyan: hsl(184, 100%, 22%);
+  --very-dark-cyan: hsl(179, 100%, 13%);
+
+  /* Neutral */
+
+  --transparent-white: hsla(0, 0%, 100%, 0.75);
+  --very-light-gray: hsl(0, 0%, 95%);
+}
+
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  border-style: none;
+}
+
+body {
+  font-family: 'Lexend Deca';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: var(--very-light-gray);
+}
+main {
+  display: flex;
+  justify-content: center;
+}
+footer {
+  margin: 1rem auto;
+}
+
+.container {
+  width: 61rem;
+  height: 30rem;
+  display: flex;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 100%;
+  padding: 3rem;
+}
+.card__heading {
+  color: var(--very-light-gray);
+  text-transform: uppercase;
+  font-family: 'Big Shoulders Display';
+  font-size: 2.5rem;
+  margin: 1.5rem 0;
+}
+.card__description {
+  color: var(--transparent-white);
+  line-height: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.card__orange {
+  background-color: var(--bright-orange);
+  border-radius: 10px 0 0 10px;
+}
+.card__blue {
+  background-color: var(--dark-cyan);
+}
+.card__green {
+  background-color: var(--very-dark-cyan);
+  border-radius: 0 10px 10px 0;
+}
+.button {
+  border: 2px solid white;
+  border-radius: 2rem;
+  background-color: var(--very-light-gray);
+  margin-top: auto;
+  padding: 0.6rem 1.5rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: transparent;
+}
+.button:hover {
+  background-color: transparent;
+  color: var(--very-light-gray);
+}
+.button__orange {
+  color: var(--bright-orange);
+}
+.button__blue {
+  color: var(--dark-cyan);
+}
+.button__green {
+  color: var(---very-dark-cyan);
+}
+
+.attribution {
+  font-size: 1rem;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 1100px) {
+  .container {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 730px) {
+  .container {
+    flex-direction: column;
+    width: 90%;
+    height: 100%;
+    margin: 3rem auto;
+  }
+  .card__orange {
+    border-radius: 10px 10px 0 0;
+  }
+  .card__green {
+    border-radius: 0 0 10px 10px;
+  }
+}
+@media only screen and (max-width: 450px) {
+  footer {
+    display: none;
+  }
+}
