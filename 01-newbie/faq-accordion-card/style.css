@@ -96,7 +96,7 @@ hr {
 
 .faq {
   width: 50%;
-  margin: 2rem 2rem;
+  margin: 2rem 6rem;
 }
 
 .faq__heading {
@@ -201,6 +201,7 @@ hr {
   }
   .faq {
     width: 100%;
+    margin: 2rem;
   }
 }
 
@@ -208,6 +209,7 @@ hr {
   .card {
     flex-direction: column;
     width: 90%;
+    height: 35rem;
   }
   .card__image {
     position: absolute;
@@ -228,6 +230,7 @@ hr {
     width: 100%;
     margin: 0;
     padding: 6rem 1.5rem 2.5rem 1.5rem;
+    overflow: hidden;
   }
   .faq__question {
     font-size: 0.9rem;
