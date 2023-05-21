@@ -209,7 +209,7 @@ body {
   }
 }
 
-@media only screen and (max-width: 80rem) {
+@media only screen and (max-width: 85em) {
   .container {
     width: 95%;
   }
@@ -222,7 +222,7 @@ body {
   }
 }
 
-@media only screen and (max-width: 60rem) {
+@media only screen and (max-width: 65em) {
   body {
     background-image: url('./images/bg-pattern-top-mobile.svg'),
       url('./images/bg-pattern-bottom-mobile.svg');
@@ -255,6 +255,7 @@ body {
     font-size: 1.2rem;
   }
   .ratings__card {
+    width: 100%;
     align-self: stretch;
     flex-direction: column;
     gap: 1rem;
@@ -264,7 +265,7 @@ body {
   }
   .review__card--text {
     display: block;
-    margin: 1.6rem 0;
+    margin: 1.6rem 1rem;
     font-size: 1rem;
     font-weight: 500;
   }
