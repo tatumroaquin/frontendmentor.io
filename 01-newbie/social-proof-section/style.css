@@ -52,8 +52,8 @@ body {
 }
 
 .container {
-  width: 71rem;
-  height: 75vh;
+  width: 85em;
+  height: 46em;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, 1fr);
