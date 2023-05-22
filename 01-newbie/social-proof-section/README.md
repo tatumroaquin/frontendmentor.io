@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/tatumroaquin/frontendmentor.io/tree/main/01-newbie/social-proof-section)
+- Solution URL: (https://www.frontendmentor.io/solutions/html-css-js-social-proof-section-RdvoBe8BtD)
 - Live Site URL: (https://social-proof-section-5b5cb5.netlify.app/)
 
 ## My process

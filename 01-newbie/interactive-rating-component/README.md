@@ -32,7 +32,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: (https://github.com/tatumroaquin/frontendmentor-interactive-rating-component)
+- Solution URL: (https://www.frontendmentor.io/solutions/html-css-js-interactive-rating-component-xQ491IJ1l4)
 - Live Site URL: (https://fm-interactive-rating-62f380.netlify.app)
 
 ## My process

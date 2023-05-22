@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/tatumroaquin/frontendmentor.io/tree/main/01-newbie/faq-accordion-card)
+- Solution URL: (https://www.frontendmentor.io/solutions/html-css-js-faq-accordion-card-PIiL6__Im5)
 - Live Site URL: (https://faq-accordion-card-13d7e3.netlify.app/)
 
 ## My process

@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/tatumroaquin/frontendmentor-results-summary-component)
+- Solution URL: (https://www.frontendmentor.io/solutions/pure-html-css-js-solution-AndlO7hrG9)
 - Live Site URL: (https://fm-results-summary-384c9b.netlify.app)
 
 ## My process

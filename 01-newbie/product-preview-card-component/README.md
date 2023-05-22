@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/tatumroaquin/frontendmentor-product-preview-card-component)
+- Solution URL: (https://www.frontendmentor.io/solutions/htmlcssjs-product-preview-card-oYPiBM_8xW)
 - Live Site URL: (https://fm-product-preview-card-41f97c.netlify.app)
 ## My process
 

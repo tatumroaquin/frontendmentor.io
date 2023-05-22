@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/tatumroaquin/frontendmentor-stats-preview-card-component)
+- Solution URL: (https://www.frontendmentor.io/solutions/html-css-stats-preview-card-component-gvVKInlj_3)
 - Live Site URL: (https://fm-stats-preview-card-1ffbe3.netlify.app)
 
 ## My process

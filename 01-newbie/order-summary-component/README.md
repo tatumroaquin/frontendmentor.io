@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/tatumroaquin/frontendmentor-order-summary-component/)
+- Solution URL: (https://www.frontendmentor.io/solutions/html-css-order-summary-component-OsXr0btC3k)
 - Live Site URL: (https://fm-order-summary-c45e76.netlify.app)
 
 ## My process

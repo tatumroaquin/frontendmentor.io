@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/tatumroaquin/frontendmentor.io/tree/main/01-newbie/3-column-preview-card-component)
+- Solution URL: (https://www.frontendmentor.io/solutions/html-css-3-column-preview-card-component-nFmxMEPhoN)
 - Live Site URL: (https://3-column-preview-card-022422.netlify.app/)
 
 ## My process
